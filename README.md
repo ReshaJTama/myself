@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
+Portofolio
 
-You can use the [editor on GitHub](https://github.com/ReshaJTama/myself/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Saya Resha Jullyantama, saya lahir di purworjo 10 Jully tahun 2000. Saya lulus tahun 2018  dari SMKN 1 Cibinong. Saya sangat menyukai linux dan bahasa pemrograman python dan java, Namun saya masih harus banyak belajar mengenai hal itu. Saya sangat kagum dengan hasil project applikasi buatan orang lain. oleh karena itu saya akan terus belajar dan menggali semua ilmu itu.
 
 ### Markdown
 
